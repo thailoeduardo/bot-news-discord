@@ -1,0 +1,15 @@
+{
+	"name": "bot-news-discord",
+	"version": "1.0.0",
+	"description": "Bot Discord Dev News",
+	"main": "mina.js",
+	"scripts": {
+		"start": "node server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Thailo Eduardo",
+	"license": "ISC",
+	"dependencies": {
+		"discord.js": "^14.18.0"
+	}
+}
