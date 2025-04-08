@@ -1,7 +1,5 @@
-require('dotenv').config();
-
 const http = require('http');
-// require('./src/register-commands.js');
+
 require('./src/bot.js');
 
 http

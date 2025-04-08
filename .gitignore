@@ -6,3 +6,6 @@
 
 # Node modules
 node_modules/
+
+# banco de dados
+json.sqlite
